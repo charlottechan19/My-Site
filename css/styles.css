@@ -10,7 +10,7 @@ html {
 
 
 ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;    
+  display: block;    
 }
 
 
@@ -22,26 +22,26 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }*/
 
 p.navbar-text {
-	margin-left: auto;
-	margin-right: auto;
-	
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .row{
-    font-style: italic;
-    position: fixed;
-    top: 35%;
-    left:45%;
-    text-align: center;
+  font-style: italic;
+  position: fixed;
+  top: 35%;
+  left:45%;
+  text-align: center;
 
-    
+
 }
 
 
 .navbar-text{
-    text-align: center;
+  text-align: center;
 }
 
 .col-md-6{
-padding: 20px 30px;
+  padding: 20px 30px;
 }
