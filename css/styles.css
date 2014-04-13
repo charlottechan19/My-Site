@@ -6,16 +6,11 @@ html {
   background-size: cover;
 }
 
-
-
-
 ul.nav li.dropdown:hover > ul.dropdown-menu {
   display: block;    
 }
 
-
-/* ul
-{
+/* ul {
     list-style-type: none;
     padding: 0 ;
     margin: 0;
@@ -27,21 +22,18 @@ p.navbar-text {
 
 }
 
-.row{
+.row {
   font-style: italic;
   position: fixed;
   top: 35%;
-  left:45%;
-  text-align: center;
-
-
-}
-
-
-.navbar-text{
+  left: 45%;
   text-align: center;
 }
 
-.col-md-6{
+.navbar-text {
+  text-align: center;
+}
+
+.col-md-6 {
   padding: 20px 30px;
 }
