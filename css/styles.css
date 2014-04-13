@@ -1,0 +1,47 @@
+html { 
+  background: url(/Volumes/Untitled/bootstrap-3.1.1-dist/images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+
+
+/* ul
+{
+    list-style-type: none;
+    padding: 0 ;
+    margin: 0;
+}*/
+
+p.navbar-text {
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.row{
+    font-style: italic;
+    position: fixed;
+    top: 35%;
+    left:45%;
+    text-align: center;
+
+    
+}
+
+
+.navbar-text{
+    text-align: center;
+}
+
+.col-md-6{
+padding: 20px 30px;
+}
